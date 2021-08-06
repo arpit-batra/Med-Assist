@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="oxymeter" size="0.030000 0.053518" />
+    <ImageTarget name="paracetamol" size="0.040000 0.025467" />
+    <ImageTarget name="paracetamo" size="0.100000 0.063667" />
+    <ImageTarget name="Montekulast" size="0.100000 0.058129" />
+    <ImageTarget name="Azithromycin" size="0.100000 0.074264" />
+    <ImageTarget name="Blood_Pressure_Tablet" size="0.040000 0.117566" />
+  </Tracking>
+</QCARConfig>
